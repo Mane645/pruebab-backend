@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gonzalezjennifer/backend-empresa.git"
+    "url": "git+https://github.com/Mane645/backend-empresa.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gonzalezjennifer/backend-empresa/issues"
+    "url": "https://github.com/Mane645/backend-empresa/issues"
   },
-  "homepage": "https://github.com/gonzalezjennifer/backend-empresa#readme",
+  "homepage": "https://github.com/Mane645/backend-empresa#readme",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
